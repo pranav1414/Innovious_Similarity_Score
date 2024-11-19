@@ -1,4 +1,4 @@
-![data_pipeline_for_similarity_updates](https://github.com/user-attachments/assets/839ea0e1-6cb2-4306-a3d0-8640a3b6571f)# Company Similarity Analysis and Data Pipeline
+# Company Similarity Analysis and Data Pipeline
 This project focuses on building an end-to-end data pipeline for computing similarity scores between company descriptions using TF-IDF and cosine similarity. The pipeline is designed for scalability and efficient processing of large datasets, incorporating industry best practices and modern tools for data engineering and machine learning.
 
 # Table of Contents:
@@ -47,15 +47,6 @@ Automation and Monitoring: Automate pipeline execution and monitor performance.
 
 
 ![Uploading data_pipeline_for_similarity_updates.png…]()
-
-
-
-
-
-
-
-
-
 
 
 # 6) Preprocessing Steps
