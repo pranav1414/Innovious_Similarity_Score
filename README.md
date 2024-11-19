@@ -45,6 +45,8 @@ Similarity Computation: Compute cosine similarity between descriptions.
 Storage and Querying: Store similarity results and enable fast querying.
 Automation and Monitoring: Automate pipeline execution and monitor performance.
 
+![image](https://github.com/user-attachments/assets/35cfe567-e632-4534-b19c-5764257f80d9)
+
 
 # 6) Preprocessing Steps
 Lowercasing: Ensures uniform text representation.
