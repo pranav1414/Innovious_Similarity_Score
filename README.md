@@ -46,9 +46,6 @@ Storage and Querying: Store similarity results and enable fast querying.
 Automation and Monitoring: Automate pipeline execution and monitor performance.
 
 
-![Uploading data_pipeline_for_similarity_updates.png…]()
-
-
 # 6) Preprocessing Steps
 Lowercasing: Ensures uniform text representation.
 Removing Punctuation and Stopwords: Reduces noise in the data.
