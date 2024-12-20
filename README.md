@@ -27,13 +27,19 @@ Automation and Monitoring: Ensures reliability and performance through orchestra
 # 3) Technologies Used
 Programming Language: Python
 
-# 4) Libraries:
-pandas, nltk, scikit-learn, diagrams
-Data Processing: Apache Spark, Dask
+# 4) Tech Stack:
+Libraries: pandas, nltk, scikit-learn, diagrams
+
+Data Processing: Apache Spark
+
 Storage: PostgreSQL, AWS S3
+
 Orchestration: Apache Airflow
+
 Monitoring: Prometheus, Grafana
-Frameworks: Jupyter Notebook for prototyping
+
+Frameworks: Jupyter Notebook
+
 Similarity Calculation: Cosine Similarity
 
 # 5) Data Pipeline Workflow
