@@ -1,6 +1,8 @@
 # Company Similarity Analysis and Data Pipeline
 This project focuses on building an end-to-end data pipeline for computing similarity scores between company descriptions using TF-IDF and cosine similarity. The pipeline is designed for scalability and efficient processing of large datasets, incorporating industry best practices and modern tools for data engineering and machine learning.
 
+# Application : https://innovioussimilarityscore.streamlit.app/
+
 # Table of Contents:
 Project Overview
 Key Features
